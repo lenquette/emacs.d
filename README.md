@@ -8,20 +8,10 @@ You can also see some thoughts behind the settings on my [What the .emacs.d!?](h
 
 To grab all the dependencies:
 
-    git clone --recursive git://github.com/magnars/.emacs.d.git
+    git clone --recursive git@github.com:lenquette/emacs.d.git
 
 The first time you start emacs, it will install some additional packages
 that are best handled by the package manager.
-
-## Install emacs on mac
-
-I use Cocoa Emacs, installed like this:
-
-    brew cask install emacs
-
-## Tips for using these emacs settings
-
-If you want to use my settings straight out of the box, here are some things to note:
 
  * I recommend starting with a blank emacs +
    [Technomancy's better-defaults package](https://github.com/technomancy/better-defaults),
