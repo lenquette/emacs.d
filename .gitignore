@@ -1,0 +1,21 @@
+# Ignore package management
+/elpa
+/elpy
+/private
+/semanticdb
+/snippets
+/transient
+/smex-items
+
+/custom.el
+/ede-projects.el
+
+# Ignore backups
+.#*
+*~
+/backup/*
+/auto-save/*
+/auto-save-list/*
+
+# Ignore compiled and generated files
+*.elc
