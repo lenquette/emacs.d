@@ -1,3 +1,5 @@
+# .gitignore file
+
 # Ignore package management
 /elpa
 /elpy
